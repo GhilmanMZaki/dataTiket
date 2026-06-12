@@ -1,3 +1,4 @@
-firstname,lastname,email,phone,identity,day,month,year,gender,tickets
-test1,user1,email1@mail.com,8123456789,1234567890123456,01,01,2000,1,"LUMPIA BAKPIA:4"
-test2,user2,email2@mail.com,8123456780,1234567890123457,02,02,2001,2,"CAT 3:1"
+firstname,lastname,email,phone,identity,day,month,year,gender,ticket_name,qty
+andi,wijaya,andi@mail.com,8123456789,1234567890123456,01,01,2000,1,LUMPIA BAKPIA,2
+budi,santoso,budi@mail.com,8123456780,1234567890123457,02,02,1999,1,GOYANG DUYU,1
+siti,rahmawati,siti@mail.com,8123456781,1234567890123458,03,03,2001,2,SUPERSTAR,1
